@@ -1,4 +1,4 @@
-#CheapETH Haiku Contest - Submission (2cheap2eth)
+# CheapETH Haiku Contest - Submission (2cheap2eth)
 
 ## About
 Thought it would be cool to generate a haiku off some real time cETH stats
