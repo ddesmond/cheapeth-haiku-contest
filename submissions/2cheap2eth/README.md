@@ -26,10 +26,10 @@ For a full list of requirements, see the requirements.txt file
 
 ## Example output:
 
-The month was February
-And the night was tight
-When block number 11878123
-Was lost in flight
+> The month was February
+> And the night was tight
+> When block number 11878123
+> Was lost in flight
 
 
 
